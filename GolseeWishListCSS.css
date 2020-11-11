@@ -5,6 +5,11 @@ a {
     text-decoration: none;
 }
 
+#whitebr {
+    background-color: whitesmoke;
+    border: 12px solid whitesmoke;
+}
+
 body {
     background: url(bgGWL.png);
     font-size: 24px;
