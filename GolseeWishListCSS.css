@@ -1,0 +1,70 @@
+a {
+    color:black;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    text-decoration: none;
+}
+
+body {
+    background: url(bgGWL.png);
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-origin: padding-box;
+}
+
+button {
+    text-align: center;
+    border: 2px;
+    padding: 1%;
+    width: 32%;
+}
+
+.ShopList {
+    text-align: center;
+    font-size: 24px;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+h2{
+    color: #489991
+}
+
+hr{
+    border: 10px solid black;
+}
+
+#title {
+    font-family: cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#intro {
+    text-align: left;
+    background-color: whitesmoke; 
+    border: 30px solid whitesmoke;
+}
+
+p {
+    font-size: 24px;
+    text-align: left;
+    margin-left: 8%;
+
+}
+
+
+
+
